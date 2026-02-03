@@ -1,0 +1,7 @@
+# forgotten-absence-processor
+
+## Status
+
+Pending indefinitely.
+
+v3.3.3
